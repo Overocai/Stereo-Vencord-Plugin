@@ -1,3 +1,7 @@
+Not working anymore
+
+
+
 Discord Stereo Plugin
 
 O Discord Stereo é um plugin para o Vencord que permite aprimorar a experiência de áudio no Discord, adicionando efeitos de som estéreo.
